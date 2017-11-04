@@ -33,7 +33,7 @@
         <resources>
             <default_setup>
                 <connection>
-                    <host>localhost</host>
+                    <host>magento_19_mysql</host>
                     <username/>
                     <password/>
                     <dbname>magento</dbname>
