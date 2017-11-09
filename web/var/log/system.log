@@ -1,7 +1,1 @@
-2017-11-03T17:22:12+00:00 ERR (3): Warning: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known  in /var/www/html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 129
-2017-11-03T17:26:13+00:00 ERR (3): Warning: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known  in /var/www/html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 129
-2017-11-03T17:26:13+00:00 ERR (3): Warning: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known  in /var/www/html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 129
-2017-11-03T17:26:13+00:00 ERR (3): Warning: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known  in /var/www/html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 129
-2017-11-03T17:26:14+00:00 ERR (3): Warning: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known  in /var/www/html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 129
-2017-11-03T17:26:15+00:00 ERR (3): Warning: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known  in /var/www/html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 129
-2017-11-03T17:26:33+00:00 ERR (3): Warning: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known  in /var/www/html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 129
+2017-11-06T10:57:17+00:00 ERR (3): Warning: session_start(): Failed to read session data: user (path: )  in /var/www/html/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 134
